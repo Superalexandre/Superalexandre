@@ -93,10 +93,10 @@ I'm 18 years old, I'm from France 🇫🇷
 
 ## My statistics
 
-## This week
++ This week
 
 ![WakaTime](https://wakatime.com/share/@Superalexandre/2cb64542-e0f4-4d39-98ba-d2aea8db80ad.svg)
 
-## All Time
++ All Time
 
 ![WakaTime](https://wakatime.com/share/@Superalexandre/0534ee83-22f1-4b32-8eb3-93378e209a52.svg)
