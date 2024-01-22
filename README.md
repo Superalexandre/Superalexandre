@@ -1,10 +1,10 @@
-### Hi my name is Alexandre 👋
+# Hi my name is Alexandre 👋
 
 I'm 18 years old, I'm from France 🇫🇷
 
-## What I am using
+# What I am using
 
-# Languages
+## Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,7 +13,7 @@ I'm 18 years old, I'm from France 🇫🇷
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-# Frameworks and libraries
+## Frameworks and libraries
 
 + Node.js
 
@@ -47,12 +47,12 @@ I'm 18 years old, I'm from France 🇫🇷
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-# Database
+## Database
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Tools
+## Tools
 
 + IDE
 
@@ -92,10 +92,10 @@ I'm 18 years old, I'm from France 🇫🇷
 
 ## My statistics
 
-# This week
+## This week
 
 ![WakaTime](https://wakatime.com/share/@Superalexandre/2cb64542-e0f4-4d39-98ba-d2aea8db80ad.svg)
 
-# All Time
+## All Time
 
 ![WakaTime](https://wakatime.com/share/@Superalexandre/0534ee83-22f1-4b32-8eb3-93378e209a52.svg)
